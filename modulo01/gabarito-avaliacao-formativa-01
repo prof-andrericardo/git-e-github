@@ -1,0 +1,223 @@
+# 📋 AF01 – Avaliação Formativa 01 (Gabarito)
+
+## 📚 Disciplina
+
+Versionamento de Código com Git e GitHub
+
+## 🎓 Curso
+
+Técnico em Desenvolvimento de Sistemas
+
+## 📖 Módulo 1 – Fundamentos do Versionamento
+
+### Conteúdos Avaliados
+
+- Aula 01 – Por que o Git Existe?
+- Aula 02 – GitHub e o Mercado de Trabalho
+- Aula 03 – Markdown, README.md e Criação do Manual
+
+---
+
+# ✅ GABARITO
+
+---
+
+# Questão 01 – Múltipla Escolha
+
+Qual é o principal objetivo de um sistema de versionamento?
+
+### Resposta Correta
+
+✅ B) Registrar e controlar alterações realizadas em arquivos ao longo do tempo.
+
+---
+
+# Questão 02 – Múltipla Escolha
+
+Qual das alternativas apresenta corretamente a diferença entre Git e GitHub?
+
+### Resposta Correta
+
+✅ C) Git controla versões e GitHub hospeda projetos e repositórios.
+
+---
+
+# Questão 03 – Caixa de Seleção
+
+Quais benefícios o versionamento oferece?
+
+### Respostas Corretas
+
+✅ Histórico de alterações.
+
+✅ Recuperação de versões anteriores.
+
+✅ Colaboração entre desenvolvedores.
+
+✅ Rastreabilidade.
+
+### Resposta Incorreta
+
+❌ Exclusão automática de arquivos.
+
+---
+
+# Questão 04 – Caixa de Seleção
+
+Quais elementos podem ser utilizados em Markdown?
+
+### Respostas Corretas
+
+✅ Títulos.
+
+✅ Listas.
+
+✅ Links.
+
+✅ Tabelas.
+
+### Resposta Incorreta
+
+❌ Compilação de programas.
+
+---
+
+# Questão 05 – Verdadeiro ou Falso
+
+O Git foi criado para resolver problemas relacionados ao controle de versões.
+
+### Resposta Correta
+
+✅ Verdadeiro
+
+---
+
+# Questão 06 – Verdadeiro ou Falso
+
+GitHub pode ser utilizado como portfólio profissional.
+
+### Resposta Correta
+
+✅ Verdadeiro
+
+---
+
+# Questão 07 – Associação
+
+Relacione os conceitos à sua função.
+
+| Conceito | Resposta Correta |
+|-----------|-----------|
+| Git | Sistema de versionamento |
+| GitHub | Plataforma de hospedagem |
+| README | Arquivo de apresentação do projeto |
+| Repositório | Local onde o projeto é armazenado |
+
+---
+
+# Questão 08 – Associação
+
+Relacione os termos aos seus significados.
+
+| Termo | Resposta Correta |
+|---------|-------------|
+| Histórico | Registro das alterações |
+| Rastreabilidade | Identificar quem realizou uma alteração |
+| Markdown | Linguagem de documentação |
+| Portfólio | Demonstração de projetos e competências |
+
+---
+
+# Questão 09 – Situação-Problema
+
+### Resposta Esperada
+
+**a) Qual problema eles enfrentaram?**
+
+Os estudantes enfrentaram um problema de controle de versões, pois não conseguiram identificar qual arquivo continha a versão correta do trabalho.
+
+**b) Como o versionamento poderia ajudar nessa situação?**
+
+O versionamento permitiria registrar todas as alterações realizadas, manter um histórico organizado das versões e recuperar facilmente qualquer versão anterior do projeto.
+
+### Critérios de Correção
+
+| Critério | Pontos |
+|-----------|---------:|
+| Identificação do problema | 1,0 |
+| Explicação da solução com versionamento | 1,0 |
+| **Total** | **2,0** |
+
+---
+
+# Questão 10 – Questão Desafio
+
+### Resposta Esperada
+
+O estudante deve demonstrar compreensão de que o GitHub funciona como:
+
+- Portfólio profissional;
+- Registro da evolução dos estudos;
+- Demonstração de projetos;
+- Evidência de organização;
+- Ferramenta utilizada pelo mercado de trabalho.
+
+### Exemplo de Resposta
+
+> Manter um perfil GitHub organizado é importante porque ele funciona como um portfólio profissional. Por meio dele, recrutadores e empresas podem visualizar projetos, documentação e a evolução do aprendizado do estudante. Além disso, demonstra organização, interesse pela área de tecnologia e capacidade de registrar atividades de forma profissional.
+
+### Critérios de Correção
+
+| Critério | Pontos |
+|-----------|---------:|
+| Relação com GitHub como portfólio | 0,5 |
+| Relação com mercado de trabalho | 0,5 |
+| Clareza da argumentação | 0,5 |
+| Organização da resposta | 0,5 |
+| **Total** | **2,0** |
+
+---
+
+# 📊 Gabarito Resumido
+
+| Questão | Resposta |
+|----------|----------|
+| 01 | B |
+| 02 | C |
+| 03 | Histórico, Recuperação, Colaboração, Rastreabilidade |
+| 04 | Títulos, Listas, Links, Tabelas |
+| 05 | Verdadeiro |
+| 06 | Verdadeiro |
+| 07 | Git→Sistema de versionamento; GitHub→Plataforma; README→Apresentação; Repositório→Armazenamento |
+| 08 | Histórico→Registro; Rastreabilidade→Identificação; Markdown→Documentação; Portfólio→Demonstração |
+| 09 | Resposta aberta |
+| 10 | Resposta aberta |
+
+---
+
+# 🏆 Distribuição da Nota
+
+| Critério | Valor |
+|-----------|---------:|
+| Questões Objetivas (01 a 08) | 6,0 |
+| Situação-Problema (09) | 2,0 |
+| Questão Desafio (10) | 2,0 |
+| **Total** | **10,0** |
+
+---
+
+# 👨‍🏫 Observação ao Professor
+
+Esta avaliação foi construída para verificar:
+
+✅ Compreensão conceitual.
+
+✅ Interpretação de situações reais.
+
+✅ Relação entre tecnologia e mercado de trabalho.
+
+✅ Capacidade de argumentação.
+
+✅ Evolução do Projeto Integrador.
+
+O objetivo não é apenas verificar memorização, mas também a compreensão dos conceitos fundamentais do versionamento e sua aplicação prática.
