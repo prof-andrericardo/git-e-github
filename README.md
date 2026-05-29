@@ -1,28 +1,24 @@
-# 📚 SUMÁRIO OFICIAL DO CURSO
+# 📚 SUMÁRIO OFICIAL
 
 # Versionamento de Código com Git e GitHub
 
-## Ensino Médio Técnico em Desenvolvimento de Sistemas
-
-### 12 Aulas de 40 Minutos
-
 ---
 
-# 🎯 Apresentação da Disciplina
+# 🎯 Tema Central da Disciplina
 
-Atualmente, praticamente todo software profissional é desenvolvido utilizando sistemas de controle de versão.
+> Como equipes de desenvolvimento conseguem trabalhar juntas, manter o histórico de alterações e evitar a perda de código em projetos de software?
 
-Empresas de tecnologia, startups, órgãos governamentais, universidades e equipes de desenvolvimento utilizam ferramentas como Git e GitHub para controlar alterações, registrar o histórico dos projetos e permitir a colaboração entre vários desenvolvedores.
+Toda a disciplina será construída para responder essa pergunta.
 
-Nesta disciplina, os estudantes aprenderão os fundamentos do versionamento de código utilizando Git e GitHub, desenvolvendo gradualmente um repositório próprio que servirá como:
+O aluno não aprenderá apenas comandos.
 
-* Material de estudo;
-* Guia de consulta rápida;
-* Registro de aprendizagem;
-* Portfólio profissional inicial;
-* Base para futuras disciplinas técnicas.
+Aprenderá:
 
-Ao final do curso, cada estudante terá construído seu próprio **Manual de Git e GitHub**, hospedado em sua conta pessoal do GitHub.
+* Por que o Git foi criado;
+* Como o mercado utiliza Git e GitHub;
+* Como documentar projetos;
+* Como trabalhar em equipe;
+* Como construir um portfólio profissional.
 
 ---
 
@@ -30,54 +26,21 @@ Ao final do curso, cada estudante terá construído seu próprio **Manual de Git
 
 ## Meu Manual de Git e GitHub
 
-Durante as 12 aulas, cada estudante construirá um repositório próprio baseado no repositório de referência disponibilizado pelo professor.
+Durante todo o curso cada estudante desenvolverá seu próprio repositório baseado no repositório de referência do professor.
 
-Esse repositório será atualizado continuamente e deverá conter:
+Repositório base:
 
-* Resumos das aulas;
-* Anotações pessoais;
-* Exemplos de comandos;
-* Guias rápidos;
-* Capturas de tela;
-* Exercícios resolvidos;
-* Referências utilizadas.
+`https://github.com/prof-andrericardo/versionamento`
 
-O objetivo é que o estudante desenvolva não apenas conhecimentos técnicos, mas também hábitos de documentação e organização profissional.
+Ao final do curso cada aluno possuirá:
 
----
-
-# 🎯 Objetivo Geral
-
-Compreender os fundamentos do versionamento de código utilizando Git e GitHub, aplicando boas práticas de documentação, colaboração e organização de projetos de software.
-
----
-
-# 🧠 Competências Desenvolvidas
-
-## Cultura Digital
-
-* Utilizar tecnologias digitais de forma crítica e responsável.
-* Organizar informações em ambientes colaborativos.
-
-## Pensamento Computacional
-
-* Resolver problemas utilizando processos organizados.
-* Compreender fluxos de trabalho utilizados no mercado de tecnologia.
-
-## Comunicação
-
-* Produzir documentação técnica clara e objetiva.
-* Utilizar linguagem adequada em ambientes profissionais.
-
-## Trabalho em Equipe
-
-* Colaborar em projetos compartilhados.
-* Respeitar processos de revisão e integração de alterações.
-
-## Autonomia
-
-* Registrar e organizar o próprio aprendizado.
-* Construir materiais de consulta pessoal.
+* Repositório próprio;
+* Documentação organizada;
+* Histórico de commits;
+* README estruturado;
+* Branches;
+* Pull Requests;
+* Portfólio inicial no GitHub.
 
 ---
 
@@ -102,7 +65,7 @@ manual-git-github/
 └── aula12/
 ```
 
-Cada pasta conterá:
+Cada pasta deverá conter:
 
 ```text
 aulaXX/
@@ -113,7 +76,11 @@ aulaXX/
 
 # 📖 MÓDULO 1
 
-# Entendendo o Problema que o Git Resolve
+# Fundamentos do Versionamento
+
+## Objetivo
+
+Compreender os problemas que o Git resolve e iniciar a construção do Manual de Git e GitHub.
 
 ---
 
@@ -124,14 +91,14 @@ aulaXX/
 ### Conceitos
 
 * O que é versionamento
-* Problemas de trabalhar sem versionamento
 * Histórico de alterações
+* Perda de arquivos
+* Trabalho em equipe
 * Rastreabilidade
-* Segurança das informações
 
-### Produto da Aula
+### Entregável
 
-Criar conta GitHub e registrar reflexões iniciais.
+Criar conta GitHub.
 
 ---
 
@@ -142,116 +109,180 @@ Criar conta GitHub e registrar reflexões iniciais.
 ### Conceitos
 
 * O que é GitHub
-* GitHub como rede profissional
-* Portfólio digital
-* Projetos Open Source
+* GitHub como portfólio
+* Open Source
 * Perfil profissional
 
-### Produto da Aula
+### Entregável
 
-Configurar conta GitHub e perfil.
+Configurar perfil GitHub.
 
 ---
 
 ## Aula 03
 
-### Criando o Projeto Manual de Git e GitHub
+### Markdown, README.md e Criação do Manual
 
 ### Conceitos
 
-* Estrutura do projeto
-* Organização de diretórios
-* Documentação técnica
-* Introdução ao Markdown
+* Markdown
+* README.md
+* Estrutura de documentação
+* Organização do projeto
 
-### Produto da Aula
+### Entregável
 
-Criar o repositório pessoal.
+Criar o repositório pessoal do projeto.
+
+---
+
+## AI01
+
+### Atividade Integrada 01
+
+Desafio:
+
+Criar a estrutura inicial do Manual de Git e GitHub contendo:
+
+* README principal
+* Pasta aula01
+* Pasta aula02
+* Pasta aula03
+* Resumos das aulas
+
+---
+
+## AF01
+
+### Avaliação Formativa 01
+
+Questões:
+
+* Múltipla escolha
+* Caixa de seleção
+* Verdadeiro ou falso
+* Associação de conceitos
+* Situação-problema
+
+Conteúdo:
+
+* Versionamento
+* Git
+* GitHub
+* Markdown
+* README
 
 ---
 
 # 📖 MÓDULO 2
 
-# Construindo seu Primeiro Repositório
+# Primeiros Passos com Git
+
+## Objetivo
+
+Aprender a criar versões e sincronizar alterações.
 
 ---
 
 ## Aula 04
 
-### Markdown e README.md
-
-### Conceitos
-
-* Títulos
-* Listas
-* Links
-* Imagens
-* Blocos de código
-
-### Produto da Aula
-
-Criar README inicial.
-
----
-
-## Aula 05
-
 ### Fork e Clone
 
 ### Conceitos
 
-* O que é Fork
-* O que é Clone
+* Fork
+* Clone
 * Repositório remoto
 * Repositório local
 
-### Produto da Aula
+### Entregável
 
 Realizar Fork do repositório do professor.
 
 ---
 
-## Aula 06
+## Aula 05
 
-### Primeiros Commits
+### Commits e Histórico
 
 ### Conceitos
 
 * git add
 * git commit
-* git push
+* git log
 * Histórico de alterações
 
-### Produto da Aula
+### Entregável
 
-Publicar primeira atualização.
+Realizar primeiros commits.
+
+---
+
+## Aula 06
+
+### Push e Sincronização
+
+### Conceitos
+
+* git push
+* git pull
+* Sincronização
+
+### Entregável
+
+Sincronizar alterações com GitHub.
+
+---
+
+## AI02
+
+### Atividade Integrada 02
+
+Desafio:
+
+Atualizar o Manual de Git e GitHub utilizando:
+
+* Fork
+* Clone
+* Commit
+* Push
+
+---
+
+## AF02
+
+### Avaliação Formativa 02
+
+Questões:
+
+* Múltipla escolha
+* Caixa de seleção
+* Verdadeiro ou falso
+* Associação
+* Análise de cenário
+
+Conteúdo:
+
+* Fork
+* Clone
+* Commit
+* Push
+* Pull
+* Histórico
 
 ---
 
 # 📖 MÓDULO 3
 
-# Controlando Alterações
+# Trabalho em Equipe com Git
+
+## Objetivo
+
+Aprender a desenvolver funcionalidades em paralelo.
 
 ---
 
 ## Aula 07
-
-### Histórico e Boas Práticas de Commit
-
-### Conceitos
-
-* git log
-* Mensagens de commit
-* Rastreabilidade
-* Organização profissional
-
-### Produto da Aula
-
-Melhorar histórico do projeto.
-
----
-
-## Aula 08
 
 ### Branches
 
@@ -259,27 +290,77 @@ Melhorar histórico do projeto.
 
 * Branch principal
 * Branch de desenvolvimento
-* Fluxo de trabalho profissional
+* Fluxo de trabalho
 
-### Produto da Aula
+### Entregável
 
 Criar primeira branch.
 
 ---
 
-## Aula 09
+## Aula 08
 
-### Merge e Resolução de Conflitos
+### Merge
 
 ### Conceitos
 
+* Integração de alterações
+* Merge
+* Boas práticas
+
+### Entregável
+
+Realizar merge simples.
+
+---
+
+## Aula 09
+
+### Conflitos e Resolução
+
+### Conceitos
+
+* Conflitos
+* Identificação
+* Resolução
+
+### Entregável
+
+Resolver conflito controlado.
+
+---
+
+## AI03
+
+### Atividade Integrada 03
+
+Desafio:
+
+Simular trabalho em equipe utilizando:
+
+* Branch
+* Merge
+* Resolução de conflitos
+
+---
+
+## AF03
+
+### Avaliação Formativa 03
+
+Questões:
+
+* Múltipla escolha
+* Caixa de seleção
+* Verdadeiro ou falso
+* Associação
+* Situação-problema
+
+Conteúdo:
+
+* Branches
 * Merge
 * Conflitos
-* Integração de alterações
-
-### Produto da Aula
-
-Resolver conflito simples.
 
 ---
 
@@ -287,19 +368,23 @@ Resolver conflito simples.
 
 # Colaboração Profissional
 
+## Objetivo
+
+Aplicar o fluxo utilizado por equipes profissionais.
+
 ---
 
 ## Aula 10
 
-### Pull Request
+### GitHub Flow e Pull Request
 
 ### Conceitos
 
+* GitHub Flow
+* Pull Request
 * Revisão de alterações
-* Aprovação de mudanças
-* Fluxo colaborativo
 
-### Produto da Aula
+### Entregável
 
 Criar primeiro Pull Request.
 
@@ -311,13 +396,13 @@ Criar primeiro Pull Request.
 
 ### Conceitos
 
-* Organização de perfil
-* README profissional
-* Apresentação de projetos
+* Perfil profissional
+* Organização de projetos
+* README avançado
 
-### Produto da Aula
+### Entregável
 
-Criar perfil profissional básico.
+Melhorar o perfil GitHub.
 
 ---
 
@@ -333,49 +418,93 @@ Criar perfil profissional básico.
 * Organização final
 * Apresentação do projeto
 
-### Produto da Aula
+### Entregável
 
-Entrega do repositório completo.
-
----
-
-# 📊 Critérios de Avaliação
-
-## Organização do Repositório
-
-* Estrutura correta
-* Navegação adequada
-* Clareza visual
-
-## Documentação
-
-* Qualidade dos resumos
-* Uso adequado do Markdown
-* Clareza das explicações
-
-## Versionamento
-
-* Uso correto dos commits
-* Histórico consistente
-* Aplicação dos comandos
-
-## Colaboração
-
-* Uso de branches
-* Uso de Pull Requests
-* Participação nas atividades
-
-## Projeto Final
-
-* Repositório completo
-* Qualidade da documentação
-* Organização profissional
+Publicação final do Manual.
 
 ---
 
-# 🏁 Resultado Esperado
+## AI04
 
-Ao final do curso, o estudante deverá ser capaz de:
+### Atividade Integrada 04
+
+Desafio Final
+
+Organizar o repositório contendo:
+
+* Todos os resumos
+* README principal
+* Histórico de commits
+* Branches utilizadas
+* Documentação completa
+
+---
+
+## AF04
+
+### Avaliação Formativa 04
+
+Questões:
+
+* Múltipla escolha
+* Caixa de seleção
+* Verdadeiro ou falso
+* Associação
+* Estudo de caso
+
+Conteúdo:
+
+* GitHub Flow
+* Pull Request
+* Portfólio
+* Boas práticas
+
+---
+
+# 🏆 Critérios de Avaliação
+
+## 30%
+
+Avaliações Formativas
+
+AF01
+AF02
+AF03
+AF04
+
+---
+
+## 30%
+
+Atividades Integradas
+
+AI01
+AI02
+AI03
+AI04
+
+---
+
+## 40%
+
+Projeto Final
+
+Meu Manual de Git e GitHub
+
+Critérios:
+
+* Organização
+* Clareza
+* Documentação
+* Uso correto do Git
+* Histórico de commits
+* Aplicação dos conceitos estudados
+
+---
+
+# 🎯 Resultado Esperado
+
+Ao final da disciplina o estudante será capaz de:
 
 ✅ Compreender o propósito do versionamento.
 
@@ -385,16 +514,20 @@ Ao final do curso, o estudante deverá ser capaz de:
 
 ✅ Criar documentação técnica utilizando Markdown.
 
-✅ Trabalhar com branches.
+✅ Realizar Forks e Clones.
 
-✅ Realizar merges.
+✅ Trabalhar com Commits.
+
+✅ Sincronizar alterações.
+
+✅ Utilizar Branches.
+
+✅ Resolver conflitos.
 
 ✅ Criar Pull Requests.
 
 ✅ Organizar projetos de forma profissional.
 
-✅ Utilizar o GitHub como portfólio inicial.
+✅ Construir um portfólio inicial no GitHub.
 
-✅ Manter um histórico organizado de suas atividades.
-
-Mais importante do que decorar comandos, o estudante deverá compreender por que o versionamento existe e como ele contribui para o desenvolvimento profissional de software.
+✅ Documentar o próprio processo de aprendizagem.
