@@ -12,17 +12,9 @@ Técnico em Desenvolvimento de Sistemas
 
 ### Conteúdos Avaliados
 
-* Aula 01 – Por que o Git Existe?
-* Aula 02 – GitHub e o Mercado de Trabalho
-* Aula 03 – Markdown, README.md e Criação do Manual
-
----
-
-# 👨‍🎓 Nome: ______________________________________
-
-# 🏫 Turma: ______________________________________
-
-# 📅 Data: ____ / ____ / ______
+- Aula 01 – Por que o Git Existe?
+- Aula 02 – GitHub e o Mercado de Trabalho
+- Aula 03 – Markdown, README.md e Criação do Manual
 
 ---
 
@@ -52,7 +44,7 @@ Qual das alternativas apresenta corretamente a diferença entre Git e GitHub?
 
 ○ A) Git e GitHub são exatamente a mesma ferramenta.
 
-○ B) Git é uma rede social e GitHub é um editor de texto.
+○ B) Git é uma rede social para programadores.
 
 ○ C) Git controla versões e GitHub hospeda projetos e repositórios.
 
@@ -100,53 +92,47 @@ Quais elementos podem ser utilizados em Markdown?
 
 # Questão 05 – Verdadeiro ou Falso
 
-Marque V para Verdadeiro ou F para Falso.
+O Git foi criado para resolver problemas relacionados ao controle de versões.
 
-| Afirmação                                                                     | V/F  |
-| ----------------------------------------------------------------------------- | ---- |
-| O Git foi criado para resolver problemas relacionados ao controle de versões. | ____ |
-| O GitHub é utilizado apenas por estudantes.                                   | ____ |
-| Um README ajuda outras pessoas a entenderem um projeto.                       | ____ |
-| Versionamento não possui relação com trabalho em equipe.                      | ____ |
+○ Verdadeiro
+
+○ Falso
 
 ---
 
 # Questão 06 – Verdadeiro ou Falso
 
-Marque V para Verdadeiro ou F para Falso.
+GitHub pode ser utilizado como portfólio profissional.
 
-| Afirmação                                              | V/F  |
-| ------------------------------------------------------ | ---- |
-| Markdown é uma linguagem de documentação.              | ____ |
-| Um repositório pode armazenar arquivos e documentação. | ____ |
-| GitHub pode ser utilizado como portfólio profissional. | ____ |
-| Todo projeto profissional dispensa documentação.       | ____ |
+○ Verdadeiro
+
+○ Falso
 
 ---
 
 # Questão 07 – Associação
 
-Relacione os conceitos à sua função.
+## Relacione os conceitos à sua função.
 
-| Conceito          | Função                                 |
-| ----------------- | -------------------------------------- |
-| ( A ) Git         | ( ) Arquivo de apresentação do projeto |
-| ( B ) GitHub      | ( ) Plataforma de hospedagem           |
-| ( C ) README      | ( ) Sistema de versionamento           |
-| ( D ) Repositório | ( ) Local onde o projeto é armazenado  |
+| Conceito | Função |
+|-----------|-----------|
+| Git | ( ) Plataforma de hospedagem |
+| GitHub | ( ) Sistema de versionamento |
+| README | ( ) Local onde o projeto é armazenado |
+| Repositório | ( ) Arquivo de apresentação do projeto |
 
 ---
 
 # Questão 08 – Associação
 
-Relacione os termos aos significados.
+## Relacione os termos aos seus significados.
 
-| Termo                 | Significado                                 |
-| --------------------- | ------------------------------------------- |
-| ( A ) Histórico       | ( ) Identificar quem alterou algo           |
-| ( B ) Rastreabilidade | ( ) Linguagem de documentação               |
-| ( C ) Markdown        | ( ) Registro das alterações                 |
-| ( D ) Portfólio       | ( ) Demonstração de projetos e competências |
+| Termo | Significado |
+|---------|-------------|
+| Histórico | ( ) Linguagem de documentação |
+| Rastreabilidade | ( ) Registro das alterações |
+| Markdown | ( ) Identificar quem realizou uma alteração |
+| Portfólio | ( ) Demonstração de projetos e competências |
 
 ---
 
@@ -168,17 +154,21 @@ Ao precisarem recuperar uma versão anterior, não conseguiram identificar qual 
 
 ### Responda:
 
-a) Qual problema eles enfrentaram?
+**a)** Qual problema eles enfrentaram?
 
----
+__________________________________________________
 
----
+__________________________________________________
 
-b) Como o versionamento poderia ajudar nessa situação?
+__________________________________________________
 
----
+**b)** Como o versionamento poderia ajudar nessa situação?
 
----
+__________________________________________________
+
+__________________________________________________
+
+__________________________________________________
 
 ---
 
@@ -192,28 +182,21 @@ O recrutador pergunta:
 
 Responda utilizando seus conhecimentos das aulas 01, 02 e 03.
 
-Mínimo: 5 linhas.
+**Mínimo: 5 linhas.**
 
----
+__________________________________________________
 
----
+__________________________________________________
 
----
+__________________________________________________
 
----
+__________________________________________________
 
----
+__________________________________________________
 
----
+__________________________________________________
 
-# 🏆 Critérios de Avaliação
-
-| Critério           |    Valor |
-| ------------------ | -------: |
-| Questões Objetivas |      6,0 |
-| Situação-Problema  |      2,0 |
-| Questão Desafio    |      2,0 |
-| **Total**          | **10,0** |
+__________________________________________________
 
 ---
 
@@ -236,15 +219,3 @@ Mínimo: 5 linhas.
 ✅ Projeto Integrador
 
 ✅ Documentação Técnica
-
----
-
-# 🚀 Encerramento do Módulo 1
-
-Parabéns!
-
-Você concluiu o primeiro módulo da disciplina e já iniciou a construção do seu projeto:
-
-> **Meu Manual de Git e GitHub**
-
-Nos próximos módulos começaremos a utilizar Git de forma prática, aprendendo como desenvolvedores trabalham em projetos reais utilizando Fork, Clone, Commits, Push, Pull, Branches e Pull Requests.
