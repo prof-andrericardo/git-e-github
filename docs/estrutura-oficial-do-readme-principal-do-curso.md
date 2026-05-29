@@ -46,31 +46,20 @@ Ao final do curso você deverá ser capaz de:
 
 ## 🗺️ Mapa da Jornada
 
-```text
-Problema
-↓
-GitHub
-↓
-Markdown
-↓
-Fork
-↓
-Clone
-↓
-Commit
-↓
-Push
-↓
-Branch
-↓
-Merge
-↓
-Conflitos
-↓
-Pull Request
-↓
-Portfólio
-```
+```mermaid
+flowchart TD
+    A[Problema: perda de arquivos e versões confusas] --> B[GitHub]
+    B --> C[Markdown]
+    C --> D[Fork]
+    D --> E[Clone]
+    E --> F[Commit]
+    F --> G[Push]
+    G --> H[Branch]
+    H --> I[Merge]
+    I --> J[Conflitos]
+    J --> K[Pull Request]
+    K --> L[Portfólio]
+``
 
 ---
 
